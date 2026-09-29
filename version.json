@@ -1,7 +1,7 @@
 {
-  "version": "4.1.0",
-  "title": "Bel Sekolah Pintar v4.1.0",
-  "changelog": "- Pembaruan Resmi Bel Sekolah Pintar v4.1.0\n- Repositori resmi dikunci permanen agar aman\n- Perbaikan responsivitas seluruh tombol antarmuka pada semua layar DPI\n- Penyempurnaan sistem notifikasi dan integrasi pembaruan otomatis",
-  "download_url": "https://github.com/muhammad-mail/bel-sekolah-pintar/releases/download/4.1.0/Setup_BelSekolahPintar_v4.1.0.exe",
+  "version": "4.2.0",
+  "title": "Bel Sekolah Pintar v4.2.0",
+  "changelog": "- Pembaruan Resmi Bel Sekolah Pintar v4.2.0\n- Repositori resmi dikunci permanen agar aman\n- Perbaikan responsivitas seluruh tombol antarmuka pada semua layar DPI\n- Penyempurnaan sistem notifikasi dan integrasi pembaruan otomatis",
+  "download_url": "https://github.com/muhammad-mail/bel-sekolah-pintar/releases/download/4.2.0/Setup_BelSekolahPintar_v4.2.0.exe",
   "size": 17188273
 }
